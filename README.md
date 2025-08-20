@@ -32,3 +32,27 @@ A simple Download Progress Simulation built using HTML, CSS, and JavaScript with
 The choice is saved in localStorage, so it persists across reloads.
 
 ---
+## 📂 Project Structure
+
+# 📦 Download-Progress-UI
+- ┣ 📜 index.html     # HTML structure
+- ┣ 📜 style.css      # Glassmorphism + theme styles
+- ┗ 📜 script.js      # Progress logic + theme toggle
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5 – Structure
+
+- CSS3 – Styling, gradients, transitions, glassmorphism
+
+- JavaScript (ES6) – Progress bar logic, theme switching, localStorage
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by Suraj_o9
+
+---
