@@ -34,7 +34,7 @@ The choice is saved in localStorage, so it persists across reloads.
 ---
 ## 📂 Project Structure
 
-# 📦 Download-Progress-UI
+### 📦 Download-Progress-UI
 - ┣ 📜 index.html     # HTML structure
 - ┣ 📜 style.css      # Glassmorphism + theme styles
 - ┗ 📜 script.js      # Progress logic + theme toggle
